@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou o João Pedro
-- 📚 Estou Cursando Analise e Desenvolvimento de Sistemas 
-- 🌱 Estou estudando de tudo um pouco sobre Data scince
+- 🌱 Entusiasta de Dados
+  
 
 
 
